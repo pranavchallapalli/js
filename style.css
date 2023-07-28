@@ -1,0 +1,32 @@
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.coin{
+    display: inline-block;
+    text-align: center;
+}
+body{
+    background-color: #322653;
+}
+h1{
+    font-size: 5rem;
+    font-family: "cursive";
+    color: #FD8D14;
+}
+p{
+    font-size: 1.5rem;
+    font-family: "cursive";
+    color: #91C8E4;
+}
+img{
+    width: 80%;
+}
+footer{
+    font-family: cursive;
+    font-size: 1.25 rem;
+    margin-top: 5%;
+    text-align: center;
+    color: #C51605;
+}
